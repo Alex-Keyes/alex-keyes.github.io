@@ -1,12 +1,14 @@
 - title: home
   url: /
 
-- title: about
-  url: /me
-
 - title: contact
-  url: mailto:alex.o.keyes@gmail.com
+  url: alex.o.keyes@gmail.com
 
 - title: github
   url: https://github.com/alex-keyes
 
+- title: blog
+  url: /posts
+
+- title: What I've been listening too
+  url: https://open.spotify.com/user/alex.o.keyes

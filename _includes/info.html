@@ -1,0 +1,11 @@
+<div class="info">
+  <ul>
+    <li><a href="mailto:alex.o.keyes@gmail.com">Alex.o.keyes <i>(at)</i> gmail.com</a></li>
+  <ul>
+    {% for item in site.data.navigation %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
