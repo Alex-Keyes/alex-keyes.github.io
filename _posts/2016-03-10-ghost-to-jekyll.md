@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Why I Switched from Ghost to Jekyll
 ---
 
