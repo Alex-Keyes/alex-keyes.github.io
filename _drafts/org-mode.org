@@ -1,0 +1,2 @@
+* Write an ORG mode blog post
+** I can write all my posts in ORG mode since they export to HTML anyway.  that's a nifty little trick.  EMACS is king!!
